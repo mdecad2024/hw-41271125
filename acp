@@ -5,3 +5,4 @@
 git add .
 git commit -m "$1"
 git push
+git commit -m "繪製並上傳Flipper_sldprt"
